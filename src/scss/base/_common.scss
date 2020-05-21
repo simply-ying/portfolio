@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+main {
+    height: 100vh;
+    min-height: 460px;
+    max-height: 1024px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.text-color {
+    color: #C57D17;
+}

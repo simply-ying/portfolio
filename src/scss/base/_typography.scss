@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 28px;
+}
+
+.font-bold {
+    font-weight: 800;
+}
+
+.title {
+    font-size: 40px;
+    
+    &--primary {
+        font-weight: 800;
+    }
+
+    &--secondary {
+        font-weight: 600;
+    }
+}
