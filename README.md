@@ -1,6 +1,6 @@
-# practice-1
+# practice-custom-properties
 
-Practice-Porfolio-1 is one of BurmesePotato's practice piece, learning how to use CSS custom properties instead of the usual SCSS variables.
+practice-custom-properties - is one of BurmesePotato's practice chip, learning how to use CSS custom properties instead of the usual SCSS variables.
 
 ## Setup
 
