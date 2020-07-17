@@ -1,1 +1,12 @@
-$radius: 20px;
+:root {
+    --boxShadowTheme: 0px 5px 15px 0px rgba(173, 112, 74, 0.35);
+    --boxShadowLight: 0px 5px 15px 0px rgba(0, 0, 0, 0.12);
+    --boxShadowDark: 0px 5px 15px 0px rgba(0, 0, 0, 0.5);
+
+    --colorTheme: #C47F53;
+    --colorThemeRGB: 94, 158, 180;
+    --colorWhite: #FFF;
+    --colorBlack: #2b231e;
+
+    --radius: 40px;
+}

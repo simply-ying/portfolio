@@ -1,8 +1,8 @@
 body {
+    background: var(--colorBlack);
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
 }
 
 main {
@@ -15,5 +15,5 @@ main {
 
 
 .text-color {
-    color: #C57D17;
+    color: var(--colorTheme);
 }

@@ -4,22 +4,21 @@
     align-items: center;
     justify-content: center;
     min-height: 45px;
-    padding: 10px 20px;
+    padding: .5em 1.5em;
 
     &--color {
-        background: #C57D17;
-        box-shadow: 0px 5px 15px 0px rgba(#C57D17, 0.3);
+        background: var(--colorTheme);
+        box-shadow: var(--boxShadowTheme);
         color: #FFF;
     }
 
     &--white {
-        background: #FFF;
-        box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.1);
-        color: #000;
+        background: var(--colorWhite);
+        box-shadow: var(--boxShadowLight);
+        color: var(--colorBlack);
     }
 
     &--circle {
-        padding: 10px;
         width: 45px;
         height: 45px;
     }
